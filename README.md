@@ -51,13 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=samykuroda&show_icons=true&theme=radical&title_color=F72585&icon_color=F72585&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samykuroda&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=F72585&fire=F72585" alt="GitHub Streak" width="48%"/>
 
-</div>
 
-<br>
-
-## 💌 ᯓ★ 𝒗𝒂𝒎𝒐𝒔 𝒏𝒐𝒔 𝒄𝒐𝒏𝒆𝒄𝒕𝒂𝒓?
-
-<div align="center">
 
 
 </div>
