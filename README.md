@@ -49,8 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samykuroda&show_icons=true&theme=radical&title_color=F72585&icon_color=F72585&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=samykuroda&show_icons=true&theme=radical&title_color=F72585&icon_color=F72585&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
 
 
 
