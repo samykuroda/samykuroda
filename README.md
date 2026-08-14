@@ -18,7 +18,7 @@
 - 💻 Estudando **desenvolvimento web** (front-end agora, back-end começando semana que vem!)
 - 🌐 Já vi noções de **redes de computadores** e **hardware**
 - 🌱 Sempre em constante aprendizado
-- 💕 Apaixonada por deixar tudo organizadinho e bonito (até o código!)
+
 
 <br>
 
@@ -40,6 +40,7 @@
 - 🧠 Lógica de programação
 - 🌐 Redes de computadores
 - 🖥️ Hardware e manutenção
+- 🐧 Linux
 - 💻 HTML, CSS e JavaScript *(em andamento)*
 
 <br>
