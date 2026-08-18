@@ -16,7 +16,7 @@
 
 - 🎓 Cursando **Técnico em Informática**
 - 💻 Estudando **desenvolvimento web** (front-end agora, back-end começando semana que vem!)
-- 🌐 Já vi noções de **redes de computadores** e **hardware**
+- 🌐 Noções de **redes de computadores** e **hardware**
 - 🌱 Sempre em constante aprendizado
 
 
