@@ -2,7 +2,7 @@
 
 # ⋆｡‧˚ʚ Oi, eu sou a Samira! ɞ˚‧｡⋆
 
-### 🎀 Técnica em Informática em formação | Futura dev full-stack 🎀
+### 🎀 Técnica em Informática em formação 🎀
 
 </div>
 
