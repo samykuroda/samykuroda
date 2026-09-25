@@ -15,7 +15,7 @@
 ## ˚₊‧꒰ა ✧ 𝒔𝒐𝒃𝒓𝒆 𝒎𝒊𝒎 ✧ ໒꒱ ‧₊˚
 
 - 🎓 Cursando **Técnico em Informática**
-- 💻 Estudando **desenvolvimento web** (front-end agora, back-end começando semana que vem!)
+- 💻 Estudando **desenvolvimento web** (front-end, back-end)
 - 🌐 Noções de **redes de computadores** e **hardware**
 - 🌱 Sempre em constante aprendizado
 
@@ -41,7 +41,8 @@
 - 🌐 Redes de computadores
 - 🖥️ Hardware e manutenção
 - 🐧 Linux
-- 💻 HTML, CSS e JavaScript *(em andamento)*
+- 💻 HTML, CSS e JavaScript
+- 💻 Python
 
 <br>
 
